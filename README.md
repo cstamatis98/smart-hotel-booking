@@ -19,7 +19,7 @@ Designed for small hotels to accept and manage guest bookings easily.
 ## How to Use
 
 1. Clone the repo or download the ZIP
-2. Place it in your local `htdocs/` folder (XAMPP or similar)
+2. Place it in your local `htdocs/` folder (Laragon)
 3. Run your Apache server
 4. Navigate to `localhost/smart-hotel-booking` in your browser
 
